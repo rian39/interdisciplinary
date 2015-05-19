@@ -1,3 +1,5 @@
+# Creating inter-disciplinary space and _ethoi_
+
 ## Sources
 
 Barry and Born
@@ -20,5 +22,21 @@ Foucault on discipline
     - politics of knowledge
 - the formation of the inter-disciplinary subject
 
+## Quotes to use
 
+> how the forms of interdisciplinary research addressed by our project have been explicitly or implicitly driven not only by the rationales of fostering accountability or innovation, but by an orientation towards effecting ontological change. This may be manifest, as we will show, in intentions to re-conceive both the object(s) of research and the relations between research subjects and objects. [@Barry_2008, 25] 
+
+## Vignettes on interdisciplinarity
+
+### bringing management scientists, computer scientists and social scientists around decisions
+
+### bringing designers and social scientists together around science
+
+### bringing synthetic biologists and social scientists together around design
+
+### bringing together genomic scientists and ethnographers around databases
+
+### bringing statisticians and ethnographers together around the field of software devices
+
+### creating inter-disciplinary intersections between all sciences and engineering
 
